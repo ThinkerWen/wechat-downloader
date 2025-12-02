@@ -1,0 +1,5 @@
+mitmproxy==10.1.6
+requests==2.31.0
+pycryptodome==3.19.0
+rich==13.7.0
+loguru==0.7.3
