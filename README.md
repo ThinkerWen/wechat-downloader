@@ -40,7 +40,7 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/yourusername/wechat-downloader.git
+git clone https://github.com/ThinkerWen/wechat-downloader.git
 cd wechat-downloader
 ```
 
@@ -54,7 +54,7 @@ uv run python main.py
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/yourusername/wechat-downloader.git
+git clone https://github.com/ThinkerWen/wechat-downloader.git
 cd wechat-downloader
 ```
 
