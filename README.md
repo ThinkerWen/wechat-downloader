@@ -4,7 +4,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/wxw/wechat-downloader?style=social)](https://github.com/ThinkerWen/wechat-downloader)
+[![GitHub stars](https://img.shields.io/github/stars/ThinkerWen/wechat-downloader?style=social&v=1)](https://github.com/ThinkerWen/wechat-downloader)
 
 **一个强大的微信视频号自动下载工具，支持加密视频解密、多格式下载和自动代理设置。**
 
